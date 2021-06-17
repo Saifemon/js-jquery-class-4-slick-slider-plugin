@@ -1,0 +1,19 @@
+.box{
+	min-height: 100px;
+	padding: 5px 5px;
+}
+.box img{
+	width: 100%;
+}
+.box1{
+	min-height: 200px;
+	padding: 5px 5px;
+}
+.box1 img{
+	width: 100%;
+}
+.box2{
+}
+.box2 img{
+	width: 100%;
+}
